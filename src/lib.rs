@@ -1,4 +1,4 @@
-//! # DW18 — Supply Manifest
+//! # DW18 - Supply Manifest
 //!
 //! ```text
 //! Manifest total: $48.00
